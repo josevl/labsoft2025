@@ -8,3 +8,4 @@
 ## Alvaro Hernandez
 ## Stefan Brad
 ## dariamuresan13
+## Alexia Sonia
